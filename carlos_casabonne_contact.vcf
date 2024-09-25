@@ -1,0 +1,13 @@
+
+BEGIN:VCARD
+VERSION:3.0
+N:Casabonne Rasselet;Carlos;;;
+FN:Carlos Casabonne Rasselet
+ORG:GCAQ Ingenieros Civiles
+TITLE:Gerente General
+EMAIL;TYPE=work:carloscasabonne@gcaq.com.pe
+TEL;TYPE=work,VOICE:+51 970 020 720
+URL:https://gcaq.com.pe
+URL:https://linkedin.com/in/carlos-casabonne-rasselet
+ADR;TYPE=work:;;Av. República de Colombia 671, Piso 8;San Isidro;Lima;;Perú
+END:VCARD
